@@ -1,0 +1,5 @@
+com\seerbit\transtat\algo\AlgorithmSolutions.class
+com\seerbit\transtat\models\Transaction.class
+com\seerbit\transtat\TranstatApplication.class
+com\seerbit\transtat\controllers\TransactionsController.class
+com\seerbit\transtat\models\TransactionStatistics.class

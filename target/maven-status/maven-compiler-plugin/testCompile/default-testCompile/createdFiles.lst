@@ -1,0 +1,4 @@
+com\seerbit\transtat\controllers\TransactionsControllerIntegrationTest.class
+com\seerbit\transtat\algo\AlgorithmSolutionsTest.class
+com\seerbit\transtat\controllers\TransactionsControllerTest.class
+com\seerbit\transtat\TranstatApplicationTests.class
